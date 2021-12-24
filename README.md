@@ -7,13 +7,21 @@ We were to also include reveal functionality for the NFTs themselves, showing th
 On top of paying with ETH, Rocket Elevators has it's own token that can be used to pay for the NFTs instead. Finally, we were to include TDD tests.
 
 ## The Site
-To run the site locally, run the following command in the IDE's terminal.
+To run the site locally, you'll have to clone/download this repo onto your machine.
+
+After doing so, make sure you have node.js installed, then run this in the command line:
+
+```sh
+npm install
+```
+
+Now you're ready to run the site locally, simply execute this:
 
 ```sh
 npm run start
 ```
 
-Or, visit the <a href="#">live site</a>
+Or, you can visit the <a href="https://rocketvators-nft.herokuapp.com/">live site</a>
 
 ## Mining ETH and LINK
 To mine ETH or LINK, you must go here: https://faucets.chain.link/rinkeby
