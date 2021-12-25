@@ -1,9 +1,9 @@
 {
-  "CONTRACT_ADDRESS": "0x6a4bf24ad05ad456c296e2533338dc7901a1fc08",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x09855674e0632d12ec395682feb4bf894370ab9f",
+  "CONTRACT_ADDRESS": "0x70388a0c94759c88e1d56272eda85dbf170db1a3",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x70388a0c94759c88e1d56272eda85dbf170db1a3",
   "NETWORK": {
     "NAME": "Rocket",
-    "SYMBOL": "REV",
+    "SYMBOL": "ETH",
     "ERC_NAME": "LINK",
     "ERC_SYMBOL": "LINK",
     "ID": 4

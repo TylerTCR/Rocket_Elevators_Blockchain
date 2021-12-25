@@ -444,6 +444,7 @@ function App() {
         </ResponsiveWrapper>
         <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{
+            width: "48.5%",
             backgroundColor: "var(--accent)",
             padding: 14,
             borderRadius: 24,
